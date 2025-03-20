@@ -1,0 +1,34 @@
+p{
+    font-size:50px;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 10px;
+}
+div{
+    width: 600px;
+    height: 150px;
+}
+.d{
+    background-color: #9f0622;
+    
+}
+.s{
+    height: 75px;
+    background-color: white;
+
+
+}
+.b{
+    background-color: #52bde9;
+}
+.o{
+    background-color: #f2ea01;
+}
+.y{
+    background-color: #fef200;
+}
+.g2{
+    background-color: #00a652;
+}
+.r2{
+    background-color: #ed1b24;
+}
